@@ -68,6 +68,6 @@ change_templates = [
 ]
 
 [github]
-owner = "zcstarr"
+owner = "open-rpc"
 repo = "spec-types"
 
