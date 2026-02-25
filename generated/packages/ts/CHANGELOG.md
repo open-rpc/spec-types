@@ -1,3 +1,9 @@
+## 0.0.2 (2026-02-25)
+
+### Fixes
+
+- bump spec for bad regex ([`b7cd56e`](https://github.com/zcstarr/spec-types/commit/b7cd56e))
+
 ## 0.0.1 (2026-02-25)
 
 ### Features
