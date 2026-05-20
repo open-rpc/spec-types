@@ -6,12 +6,12 @@ package to do validation. It includes all of the versioned schemas from the spec
 
 ## Packages
 
-| Language   | Install                                                      | Registry |
-| ---------- | ------------------------------------------------------------ | -------- |
-| TypeScript | `npm install @open-rpc/spec-types`                           | npm      |
-| Go         | `go get github.com/zcstarr/spec-types/generated/packages/go` | git tags |
-| Python     | --                                                           | WIP      |
-| Rust       | --                                                           | WIP      |
+| Language   | Install                                                       | Registry |
+| ---------- | ------------------------------------------------------------- | -------- |
+| TypeScript | `npm install @open-rpc/spec-types`                            | npm      |
+| Go         | `go get github.com/open-rpc/spec-types/generated/packages/go` | git tags |
+| Python     | --                                                            | WIP      |
+| Rust       | --                                                            | WIP      |
 
 Each package exposes versioned submodules (e.g. `v1_3`, `v1_4`) matching the OpenRPC spec versions.
 
