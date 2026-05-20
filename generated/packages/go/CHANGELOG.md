@@ -1,3 +1,9 @@
+## 0.0.5 (2026-05-20)
+
+### Fixes
+
+- retract bad published version ([`768ce24`](https://github.com/open-rpc/spec-types/commit/768ce24))
+
 ## 0.0.4 (2026-05-20)
 
 ### Features
