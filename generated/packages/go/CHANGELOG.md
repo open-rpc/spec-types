@@ -1,3 +1,9 @@
+## 0.0.3 (2026-05-20)
+
+### Fixes
+
+- adjust repo to point to canonical repo ([`c88801c`](https://github.com/open-rpc/spec-types/commit/c88801c))
+
 ## 0.0.2 (2026-02-25)
 
 ### Fixes
