@@ -40,7 +40,7 @@ export const buildGoMod = (
   version?: string,
 ): string => {
   const versionComment = version ? ` // ${version}` : "";
-  return `module ${opts.module}${versionComment}\n\ngo ${opts.goVersion}\n`;
+  return `module ${opts.module}${versionComment}\n\ngo ${opts.goVersion}\n\nretract v0.1.0 // Published in error`;
 };
 
 export interface PyProjectTomlOptions {
