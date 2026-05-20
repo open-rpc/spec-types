@@ -1,4 +1,4 @@
-[packages.go]
+[packages."generated/packages/go"]
 versioned_files = ["generated/packages/go/go.mod"]
 changelog = "generated/packages/go/CHANGELOG.md"
 scopes = ["go"]
