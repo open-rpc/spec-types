@@ -62,7 +62,7 @@ type = "CreateChangeFile"
 
 [release_notes]
 change_templates = [
-    "- $summary ([`$commit_hash`](https://github.com/zcstarr/spec-types/commit/$commit_hash))",
+    "- $summary ([`$commit_hash`](https://github.com/open-rpc/spec-types/commit/$commit_hash))",
     "### $summary\n\n$details",
     "- $summary",
 ]

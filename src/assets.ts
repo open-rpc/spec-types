@@ -34,7 +34,7 @@ export interface GoModOptions {
 
 export const buildGoMod = (
   opts: GoModOptions = {
-    module: "github.com/zcstarr/spec-types/generated/packages/go",
+    module: "github.com/open-rpc/spec-types/generated/packages/go",
     goVersion: "1.24.5",
   },
   version?: string,
