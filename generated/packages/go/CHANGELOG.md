@@ -1,3 +1,9 @@
+## 0.1.1 (2026-05-20)
+
+### Fixes
+
+- version bump and update readme ([`cdfd968`](https://github.com/open-rpc/spec-types/commit/cdfd968))
+
 ## 0.0.5 (2026-05-20)
 
 ### Fixes
